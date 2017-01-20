@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée. Entrez votre login et votre mdp : "
+AuthType Basic
+AuthUserFile "C:\wamp\www\ocrtutophpbase.be\admin\.htpasswd"
+Require valid-user
