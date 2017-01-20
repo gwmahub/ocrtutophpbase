@@ -1,5 +1,5 @@
 <?php
-
+//modif 1 on chat branch
 include_once '../includes/connect.php';
 include_once '../lib/fctglobal.php';
 include_once '../includes/head.php';

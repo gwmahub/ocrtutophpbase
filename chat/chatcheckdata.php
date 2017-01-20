@@ -1,5 +1,5 @@
 <?php
-
+// modif1 on chat branch
 include_once '../includes/connect.php';
 
 $pseudochat     = isset($_POST['pseudochat']) && !empty($_POST['pseudochat'])? $_POST['pseudochat']:false;
