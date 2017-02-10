@@ -14,6 +14,7 @@
                 <li><a href="../index.php">Home</a></li>
                 <li><a href="../blog/bloghome.php">Blog</a></li>
                 <li><a href="../chat/chathome.php">Chat</a></li>
+                <li><a href="../admin/index.php">ADMIN</a></li>
             </ul>
         </div>
     </div>
