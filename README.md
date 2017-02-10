@@ -1,1 +1,2 @@
 Repository created to follow the modifications on the ocrphpbase project. This project has been created to make the exercices demanded in the ocr cursus.
+The admin section is based on the MVC model. We can access to the section with http auth.
