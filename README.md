@@ -1,1 +1,1 @@
-Test de création de repository sur Github sans readme pour pusher mon projet local sans conflit d'historique.
+Repository created to follow the modifications on the ocrphpbase project. This project has been created to make the exercices demanded in the ocr cursus.
